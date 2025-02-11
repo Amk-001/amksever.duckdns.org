@@ -1,2 +1,0 @@
-# amksever.duckdns.org
-website 
